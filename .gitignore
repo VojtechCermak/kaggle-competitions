@@ -1,0 +1,8 @@
+﻿# exclude Data folder
+data
+
+# exclude IPynb checkpoints
+.ipynb_checkpoints
+
+# exclude pycache
+/utils/__pycache__
